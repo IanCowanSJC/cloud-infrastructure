@@ -10,4 +10,6 @@
 
  The `network-setup.tf` file contains Terraform configuration for setting up a virtual network in Azure.
 
-Save the file (Ctrl+S).
+ ## Compute Configuration
+
+ The repository includes templates for setting up virtual machines and compute resources.
